@@ -1,6 +1,6 @@
 # Price Tracker
 
-A programs that informs me when products I am interested in is on sale. Instad of me browing to the website to look up the product, I can just run the program from the command line. At the moment, it only works on Europris, but the plan is to extend to other stores and products as needed.
+A program that informs me when products I am interested in is on sale. Instad of me browsing to the website to look up the product, I can just run the program from the command line. At the moment, it only works on Europris, but the plan is to extend to other stores and products as needed.
 
 ## Usage
 
